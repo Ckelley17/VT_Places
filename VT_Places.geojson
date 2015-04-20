@@ -37,25 +37,38 @@
           44.1272782929023
         ]
       }
-    }
-]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
+},
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#00ff00",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-name": "Silver Lake Trail"
+        "marker-symbol": "triangle-stroked",
+        "Name": "TAM",
+        "Description": "Trail Around Middlebury; Running and Hiking"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.05290222167969,
-          43.898325322794506
+          -73.19164752960205,
+          44.02368092289843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "Name": "Rattlesnake Mountain",
+        "Description": "Short hiking trail up Rattlesnake Mountain; Summit overlooks Lake Dunmore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05895328521729,
+          43.914650728417435
         ]
       }
     }
