@@ -41,23 +41,3 @@
 ]
 }
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#008000",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Marker Name": "Equinox Mountain Hiking Trail"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.08242797851562,
-          43.162555828694224
-        ]
-      }
-    }
-  ]
-}
